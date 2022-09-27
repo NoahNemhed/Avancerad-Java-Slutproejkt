@@ -1,0 +1,1 @@
+Weather app using. JavaFX as GUI and https://openweathermap.org/api as API. The app takes a city and a country parameter and you can choose between searching for only 1 hour forcast or 2-5 hours forecast.
